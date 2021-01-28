@@ -16,7 +16,7 @@ if($str_len == $fixed_len){
     $page = "employee.php";
 }
 else{
-    $page = "https://pick-a-bag.000webhostapp.com".$ref_url."";
+    $page = "";
 }
 ini_set('session.gc_maxlifetime', 86400);
 session_set_cookie_params(86400);
