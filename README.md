@@ -1,8 +1,22 @@
 # MNGT
 HR management system to manage all details of employee , add employee , update the status  along with an attendance system based on leaves. Leave system for employee to apply for leave and admin to manage!
-<br>
+
 MNGT consists of various modules like - basic signup and login, forgot password, employee management , employee display,profile section, leave apply, admin leave management. The basic fundamental structure is created but many modules need to be created like the forgot password, leave admin management , about & contact section and profile section.
-<hr>
+
+## Getting Started 
+
+* First `fork` this repository to your account
+* Clone it in your local machine using command `git clone url`
+* After a copy of the project is made in your machine , your can run it either in any free web host or by using [XAMPP](https://www.apachefriends.org/download.html)
+* Set the `Username` ,`Password` and `Database` accordingly .
+* All gear pages are present in the `gears` folder , configuration files in the `inc` folder.
+* Make the required changes and run it in the server to see the working.
+* `git add .` to add all the changes and `git add filename.txt` to add changes to a perticular file.
+* `git commit -m "message"` it is recommended to commit with a message to tell what are the things you have changed.
+* `git push` to push all changes to main branch from local branch.
+
+<br>
+
 <p align="center">
   <i>||&nbsp&nbsp&nbsp Pages Included &nbsp&nbsp&nbsp||</i>
   <p align="center">
