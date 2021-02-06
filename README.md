@@ -22,7 +22,7 @@ MNGT consists of various modules like - basic signup and login, forgot password,
   <p align="center">
  <ol>
    <li>Login Page - <a href="https://pick-a-bag.000webhostapp.com/index%20-%20Copy.php" title="Login page">Click here </a></li>
-   <li>Signup Page - <a href="https://pick-a-bag.000webhostapp.com/signup.php" title="signup page">Click here </a></li> 
+   <li>Signup Page - <a href="https://pick-a-bag.000webhostapp.com/signup.php?email_id_err=&password_err=" title="signup page">Click here </a></li> 
    <li>Employee Add page - <a href="https://pick-a-bag.000webhostapp.com/employee_add.php" title="Add page">Click here </a></li>
    <li>Employee List - <a href="https://pick-a-bag.000webhostapp.com/employee.php" title="List page">Click here </a></li>
    <li>Leave Application - <a href="https://pick-a-bag.000webhostapp.com/leave.php" title="Leave application">Click here </a></li>
