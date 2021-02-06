@@ -1,5 +1,7 @@
 # MNGT
 HR management system to manage all details of employee , add employee , update the status  along with an attendance system based on leaves. Leave system for employee to apply for leave and admin to manage!
+<br>
+MNGT consists of various modules like - basic signup and login, forgot password, employee management , employee display,profile section, leave apply, admin leave management. The basic fundamental structure is created but many modules need to be created like the forgot password, leave admin management , about & contact section and profile section.
 <hr>
 <p align="center">
   <i>||&nbsp&nbsp&nbsp Pages Included &nbsp&nbsp&nbsp||</i>
