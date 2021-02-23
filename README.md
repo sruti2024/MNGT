@@ -1,4 +1,13 @@
 # MNGT
+
+[![Issues](https://img.shields.io/github/issues/sruti2024/MNGT)](https://github.com/sruti2024/MNGT/issues)
+<img src="https://img.shields.io/badge/Front%20End-CSS%20JS-orange">
+<img src="https://img.shields.io/badge/Back%20End-PHP%20MySQL-lightgrey">
+<img src="https://img.shields.io/badge/Open%20Source-Teacher-blueviolet">
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+
+
 HR management system to manage all details of employee , add employee , update the status  along with an attendance system based on leaves. Leave system for employee to apply for leave and admin to manage!
 
 MNGT consists of various modules like - basic signup and login, forgot password, employee management , employee display,profile section, leave apply, admin leave management. The basic fundamental structure is created but many modules need to be created like the forgot password, leave admin management , about & contact section and profile section.
