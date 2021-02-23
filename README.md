@@ -1,5 +1,9 @@
 # MNGT
 
+
+<center><img src="https://github.com/sruti2024/MNGT/blob/main/images/MNGT_.png" ></center>
+
+
 [![Issues](https://img.shields.io/github/issues/sruti2024/MNGT)](https://github.com/sruti2024/MNGT/issues)
 <img src="https://img.shields.io/badge/Front%20End-CSS%20JS-orange">
 <img src="https://img.shields.io/badge/Back%20End-PHP%20MySQL-lightgrey">
