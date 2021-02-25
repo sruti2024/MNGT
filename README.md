@@ -30,6 +30,16 @@ MNGT consists of various modules like - basic signup and login, forgot password,
 
 <br>
 
+
+<p align="center">
+  <i>||&nbsp&nbsp&nbsp Glimps of pages included &nbsp&nbsp&nbsp||</i>
+  <p align="center">
+<img src="https://github.com/sruti2024/MNGT/blob/main/images/WhatsApp%20Image%202021-02-25%20at%2012.04.27%20PM.jpeg" width="300px" height="180px">
+    <img src="https://github.com/sruti2024/MNGT/blob/main/images/WhatsApp%20Image%202021-02-25%20at%2012.09.20%20PM.jpeg" width="300" height="180px">
+    <img src="https://github.com/sruti2024/MNGT/blob/main/images/WhatsApp%20Image%202021-02-25%20at%2012.14.16%20PM.jpeg" width="300" height="180px">
+</p>
+
+
 <p align="center">
   <i>||&nbsp&nbsp&nbsp Modules Included &nbsp&nbsp&nbsp||</i>
   <p align="center">
