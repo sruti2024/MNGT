@@ -31,8 +31,12 @@ MNGT consists of various modules like - basic signup and login, forgot password,
 
 ## System Flow
 * At first user will open th index page. If he/she is registered they will sign in else they have to sign up.
-* In registration we will take Full name,  Email ID, password, phone number.
-
+* In registration we will take Full name,  Email ID, password and phone number.
+* Now the Admin can assign a team and status to the employee in employee add page.
+* The employee page containts the details of the active employees and admin can change the status from this page too.
+* Once the employee is made active by the admin , they get access to the leave page.
+* Through the leave page the employee gets to apply for leave.
+* The admin gets to see the list of leaves and approve or disapprove and give their remarks.
 
 
 
