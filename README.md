@@ -28,6 +28,14 @@ MNGT consists of various modules like - basic signup and login, forgot password,
 * `git commit -m "message"` it is recommended to commit with a message to tell what are the things you have changed.
 * `git push` to push all changes to main branch from local branch.
 
+
+## System Flow
+* At first user will open th index page. If he/she is registered they will sign in else they have to sign up.
+* In registration we will take Full name,  Email ID, password, phone number.
+
+
+
+
 <br>
 
 
