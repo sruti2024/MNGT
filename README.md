@@ -1,7 +1,7 @@
 # MNGT
 
 
-<center><img src="https://github.com/sruti2024/MNGT/blob/main/images/MNGT_.png" ></center>
+<center><img src="https://github.com/sruti2024/MNGT/blob/main/images/MNGT_.png" height="420px" width="1000px" ></center>
 
 
 [![Issues](https://img.shields.io/github/issues/sruti2024/MNGT)](https://github.com/sruti2024/MNGT/issues)
@@ -31,14 +31,21 @@ MNGT consists of various modules like - basic signup and login, forgot password,
 <br>
 
 <p align="center">
-  <i>||&nbsp&nbsp&nbsp Pages Included &nbsp&nbsp&nbsp||</i>
+  <i>||&nbsp&nbsp&nbsp Modules Included &nbsp&nbsp&nbsp||</i>
   <p align="center">
  <ol>
-   <li>Login Page - <a href="https://pick-a-bag.000webhostapp.com/index%20-%20Copy.php" title="Login page">Click here </a></li>
-   <li>Signup Page - <a href="https://pick-a-bag.000webhostapp.com/signup.php?email_id_err=&password_err=" title="signup page">Click here </a></li> 
-   <li>Employee Add page - <a href="https://pick-a-bag.000webhostapp.com/employee_add.php" title="Add page">Click here </a></li>
-   <li>Employee List - <a href="https://pick-a-bag.000webhostapp.com/employee.php" title="List page">Click here </a></li>
-   <li>Leave Application - <a href="https://pick-a-bag.000webhostapp.com/leave.php" title="Leave application">Click here </a></li>
+   <li>Authentication Module - This includes the basic login, signup and forgot password pages. The login and sign up pages are already created with slight problem withe session , and the forgot password page is yet to be created to first ckeck whether the email entered is present in database then by sending and verifying an OTP. <br>
+     Login page :<a href="https://pick-a-bag.000webhostapp.com/index%20-%20Copy.php" title="Login page">Click here </a><br>Signup Page : <a href="https://pick-a-bag.000webhostapp.com/signup.php?email_id_err=&password_err=" title="signup page">Click here </a>
+   </li>
+   
+   <li>Employee Management Module - This module consists of pages to add employee details, shift employee from one group to another  also to change the status of enployee from active to inactive or purged . There is also a dispay of all employees along with their details. Things that are yet to be built are the profile pages to view the detailed profile of each employee.<br>
+  Employee add page : <a href="https://pick-a-bag.000webhostapp.com/employee_add.php" title="Add page">Click here </a>
+<br>
+  Employee List : <a href="https://pick-a-bag.000webhostapp.com/employee.php" title="List page">Click here </a>
+</li>
+   
+   <li>Leave Module - This contains pages to modulate the leave application of the employee .Their is already a page to apply for leave along with the status of the leaves that have already been applied. A page with the list of all the leave details is yet to be created also the admin side pages have to be created.<br>
+  Leave application :<a href="https://pick-a-bag.000webhostapp.com/leave.php" title="Leave application">Click here </a></li>
  </p>
 
 <br>
